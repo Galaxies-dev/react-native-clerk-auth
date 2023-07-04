@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "clerkApp",
-    "slug": "clerkApp"
+    "slug": "clerkApp",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
